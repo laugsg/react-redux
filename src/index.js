@@ -8,6 +8,8 @@ import App from "./components/App";
  * 1. Create Store
  * 2. Combine Reducers
  * 3. Apply Middlewares
+ * 4. Use Provider Component as Container
+ * 5. Load the App Component (exports ConnectedApp)
  */
 
 import { createStore } from "redux";
